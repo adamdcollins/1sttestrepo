@@ -9,6 +9,7 @@
 !*.rmd
 !*.md
 !.gitignore
+!*.R
 .Rproj
 .Rproj.user
 .Rhistory
